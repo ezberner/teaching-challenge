@@ -8,19 +8,19 @@ $(document).ready(function(){
 			value: 230,
 			color: "cornflowerblue",
 			highlight: "lightskyblue",
-			label: "JavaScript"
+			label: "Blue"
 		},
 		{
 			value: 170,
 			color: "red",
 			highlight: "#D64343",
-			label: "HTML"
+			label: "Red"
 		},
 		{
 			value: 100,
 			color: "grey",
 			highlight: "#9A9A9A",
-			label: "CSS"
+			label: "Grey"
 		}
 	];
 
